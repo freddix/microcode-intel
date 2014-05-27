@@ -1,11 +1,11 @@
 Summary:	Intel CPU Microcode
 Name:		microcode-intel
-Version:	20120606
+Version:	20140430
 Release:	1
 License:	GPL
 Group:		Base
-Source0:	http://downloadmirror.intel.com/21385/eng/microcode-%{version}.tgz
-# Source0-md5:	f1e57224265ff498971f50fe6824ba0a
+Source0:	http://downloadmirror.intel.com/23829/eng/microcode-%{version}.tgz
+# Source0-md5:	99c811133b002d1e73150f667a6a77f4
 Source1:	intel-microcode2ucode.c
 Source2:	LICENSE
 URL:		http://www.urbanmyth.org/microcode/
